@@ -4,6 +4,8 @@ from __future__ import print_function
 from random import randint
 import sys
 
+print 'edit 1'
+print 'edit 2'
 def getnums(f,r=[0,1,2,3],c=[0,1,2,3]):
     ints=[]
     for y in r:
